@@ -54,11 +54,11 @@ LLM-powered Recipe Rescuer that suggests realistic recipes from your ingredients
 
 **What I focused on in V0**
 
-- ✅ Designing the **system prompt**:
+- 🎯 Designing the **system prompt**:
   - Role, goals, constraints, output format.
-- ✅ Iterating on prompt behavior using test cases:
+- 🎯 Iterating on prompt behavior using test cases:
   - Extra ingredients, markdown formatting, time realism.
-- ✅ Capturing learnings in docs:
+- 🎯 Capturing learnings in docs:
   - See `docs/prompt-engineering-notes-v0.md`.
 
 ---
