@@ -6,7 +6,7 @@ LLM-powered Recipe Rescuer that suggests realistic recipes from your ingredients
 
 ## Live demo
 
-➡️ Try it here: https://your-subdomain.lovable.app
+➡️ Try it here: https://pb-recipe-rescuer.lovable.app
 
 ---
 
